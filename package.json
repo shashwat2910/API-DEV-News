@@ -1,0 +1,24 @@
+{
+  "name": "api-dev-news",
+  "version": "1.0.0",
+  "description": "This repository is for API using for developer news website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashwat2910/API-DEV-News.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashwat2910/API-DEV-News/issues"
+  },
+  "homepage": "https://github.com/shashwat2910/API-DEV-News#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
