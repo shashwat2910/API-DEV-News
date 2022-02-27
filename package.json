@@ -19,6 +19,9 @@
   "homepage": "https://github.com/shashwat2910/API-DEV-News#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
+    "csv-parser": "^3.0.0",
+    "csv2json": "^2.0.2",
+    "mongoose": "^6.2.3",
     "request": "^2.88.2"
   }
 }
