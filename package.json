@@ -23,6 +23,7 @@
     "csv-parser": "^3.0.0",
     "csv2json": "^2.0.2",
     "express": "^4.17.3",
+    "mongodb": "^4.4.0",
     "mongoose": "^6.2.3",
     "request": "^2.88.2"
   }
