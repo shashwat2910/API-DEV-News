@@ -8,3 +8,5 @@ Run api.js file
 ![alt text](https://github.com/shashwat2910/API-DEV-News/blob/main/images/extension.jpeg)
 <br>
 ![alt text](https://github.com/shashwat2910/API-DEV-News/blob/main/images/website.jpeg)
+<br>
+![alt text](https://github.com/shashwat2910/API-DEV-News/blob/main/images/mongodbCloud.png)
